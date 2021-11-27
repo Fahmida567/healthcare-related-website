@@ -1,6 +1,6 @@
 # Intensive Speciality Hospital
 
-The live Site [link](https://intensive-specialiy-hospital877.netlify.app/).
+The live Site [link](https://intensive-speciality-app-1ed74.web.app).
 
 ## In This Website
 
