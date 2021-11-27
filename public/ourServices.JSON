@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Kazi Ali Hassan",
+        "age": 45,
+        "img": "https://tse4.mm.bing.net/th?id=OIP.RAUx7mqG_0DH2dkMZfaALQHaDx&pid=Api&P=0&w=302&h=154",
+        "rating": 4.5,
+        "Designation": "Specialist of Endocrinologist"
+    },
+    {
+        "id": 2,
+        "name": "DR. S. H. KHAN",
+        "age": 46,
+        "img": "https://media1.mensxp.com/media/content/2019/Jan/mikhail-mike-varshavski-most-fashionable-doctor-1400x653-1548248961_1100x513.jpg",
+        "rating": 4.5,
+        "Designation": "Accupressure"
+    },
+    {
+        "id": 3,
+        "name": "Dr. A.S.M. Badruddoza",
+        "age": 43,
+        "img": "https://media.istockphoto.com/photos/confident-female-doctor-picture-id910148768",
+        "rating": 4.5,
+        "Designation": "Accupressure"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Asim Mohajan",
+        "age": 53,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbEgOSxkt6MT9JcespHEhV9UZYwXfYpO1WtsN9lUs0orsv1zVOnA6eJbCwqbSGKsOJwI&usqp=CAU",
+        "rating": 4.5,
+        "Designation": "Physiotherapy"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Jonaid Shafiq",
+        "age": 54,
+        "img": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/qmraJpx/videoblocks-portrait-of-smiling-female-doctor-wearing-scrubs-with-stethoscope-standing-by-desk-in-office_hf-xanx1es_thumbnail-1080_01.png",
+        "rating": 4.5,
+        "Designation": "Accupuncture"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Md. Rezaul Karim",
+        "age": 43,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCjPYZFOi9eqZBVn6mvcCOEOA4sqUT3u5mxkWkpB-qQUNM-yd2pa-s_pKDcOul5MOjBQ&usqp=CAU",
+        "rating": 4.5,
+        "Designation": " Pain and Paralysis"
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90efd456.chunk.css",
+    "main.js": "/static/js/main.b8e43e39.chunk.js",
+    "main.js.map": "/static/js/main.b8e43e39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d006e354.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d006e354.js.map",
+    "static/js/2.d04768ab.chunk.js": "/static/js/2.d04768ab.chunk.js",
+    "static/js/2.d04768ab.chunk.js.map": "/static/js/2.d04768ab.chunk.js.map",
+    "static/js/3.efa5f894.chunk.js": "/static/js/3.efa5f894.chunk.js",
+    "static/js/3.efa5f894.chunk.js.map": "/static/js/3.efa5f894.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.90efd456.chunk.css.map": "/static/css/main.90efd456.chunk.css.map",
+    "static/js/2.d04768ab.chunk.js.LICENSE.txt": "/static/js/2.d04768ab.chunk.js.LICENSE.txt",
+    "static/media/Healthcare-Innovation-Lobbying-EU.05794b36.jpg": "/static/media/Healthcare-Innovation-Lobbying-EU.05794b36.jpg",
+    "static/media/healthcare.2bd2fcfa.jpg": "/static/media/healthcare.2bd2fcfa.jpg",
+    "static/media/shutterstoc.50b43371.jpg": "/static/media/shutterstoc.50b43371.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d006e354.js",
+    "static/js/2.d04768ab.chunk.js",
+    "static/css/main.90efd456.chunk.css",
+    "static/js/main.b8e43e39.chunk.js"
+  ]
+}
